@@ -1,0 +1,8 @@
+[
+  {"policy_id":"M&A-APPROVAL","title":"M&A Approval and Delegation Policy","version":"3.0","effective_date":"2025-01-01","jurisdiction":"Global","business_unit":"Corporate Development","priority":100,"status":"active","file":"policies/ma_approval_v3.md"},
+  {"policy_id":"M&A-APPROVAL","title":"M&A Approval and Delegation Policy","version":"2.0","effective_date":"2023-01-01","jurisdiction":"Global","business_unit":"Corporate Development","priority":90,"status":"superseded","file":"policies/ma_approval_v2.md"},
+  {"policy_id":"SANCTIONS","title":"Sanctions and Restricted Parties Policy","version":"2.1","effective_date":"2025-03-01","jurisdiction":"Global","business_unit":"All","priority":100,"status":"active","file":"policies/sanctions_v2_1.md"},
+  {"policy_id":"ANTI-BRIBERY","title":"Anti-Bribery and Corruption Policy","version":"4.0","effective_date":"2024-06-01","jurisdiction":"Global","business_unit":"All","priority":100,"status":"active","file":"policies/anti_bribery_v4.md"},
+  {"policy_id":"DATA-PRIVACY","title":"M&A Data Privacy and Transfer Policy","version":"1.2","effective_date":"2025-02-01","jurisdiction":"EU/UK","business_unit":"All","priority":100,"status":"active","file":"policies/data_privacy_v1_2.md"},
+  {"policy_id":"CONFLICTS","title":"Conflicts and Related-Party Transactions Policy","version":"2.0","effective_date":"2024-01-01","jurisdiction":"Global","business_unit":"All","priority":100,"status":"active","file":"policies/conflicts_v2.md"}
+]

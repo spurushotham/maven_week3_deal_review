@@ -1,0 +1,41 @@
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local app/runtime artifacts
+.streamlit/secrets.toml
+*.log
+*.sqlite
+*.db
+chroma/
+data/index/
+tmp/
+temp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# User-uploaded or generated documents
+uploads/
+outputs/
+*.pdf
+*.docx
+*.pptx
+*.xlsx
